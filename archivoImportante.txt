@@ -1,1 +1,2 @@
+user= "guido"
 pass= "asdasdasdasd"
