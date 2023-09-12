@@ -5,4 +5,5 @@ print(a)
 b = a + 3
 c = b + 3
 d = c + 10
-print(a,b,c,d)
+print(a,b,c,d + "lopo")
+print("asdasd")
